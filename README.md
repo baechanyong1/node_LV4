@@ -36,3 +36,6 @@ node_LV2
 └─ seeders
 
 ```
+
+
+posts테이블의 컬럼 like => Likes 테이블 생성 후 Likes에 저장 중 SequelizeForeignKeyConstraintError 외래키를 참조 할 수 없는 에러 발생
