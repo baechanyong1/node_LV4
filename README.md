@@ -38,4 +38,5 @@ node_LV2
 ```
 
 첫 번째로 회원가입 한 user의 경우 post가 정상적으로 되지 않는 현상 발견
+
 posts테이블의 컬럼 like => Likes 테이블 생성 후 Likes에 저장 중 SequelizeForeignKeyConstraintError 외래키를 참조 할 수 없는 에러 발생
