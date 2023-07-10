@@ -2,7 +2,8 @@
 
 ERD설계
 
-![image](https://github.com/baechanyong1/node_LV4/assets/110149885/f37133f6-5754-4a97-822f-4742d9c154b1)
+![image](https://github.com/baechanyong1/node_LV4/assets/110149885/9e52568d-8059-4f6c-b44c-733bfdbb2826)
+
 
 
 
